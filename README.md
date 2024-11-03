@@ -12,9 +12,9 @@
  
  🔭 I’m currently school on **SMK Negeri 2 Yogyakarta**
  
- 🌱 I’m currently learning **Docker, TypeScript, JavaScript**
+ 🌱 I’m currently learning **Docker, TypeScript, React**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/rufflekies/)**
+💬 Ask me about **Docker, React... or anything [here](https://github.com/rufflekies/)**
 
 ⚡ Fun fact **Suka Makan**
 
