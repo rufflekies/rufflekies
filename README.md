@@ -12,7 +12,7 @@
  
  🔭 I’m currently school on **SMK Negeri 2 Yogyakarta**
  
- 🌱 I’m currently learning **Docker, TypeScript, React**
+ 🌱 I’m currently learning **Docker, Kubernetes, Terraform**
 
 💬 Ask me about **Docker, React... or anything [here](https://github.com/rufflekies/)**
 
